@@ -1,6 +1,8 @@
 <template>
   <!-- <add-blog></add-blog> -->
-  <show-blogs></show-blogs>
+  <!-- <show-blogs></show-blogs> -->
+  <!-- new routes -->
+  <router-view></router-view>
 </template>
 
 <script>
